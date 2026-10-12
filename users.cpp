@@ -16,7 +16,7 @@ int main() {
     file << "Bob,102,Student\n";
     file << "David,103,Student\n";
     file << "Rahul,104,Student\n";
-    file << "Krishna,105,Student\n";
+    file << "Priyam,125,Student\n";
     file << "Ram,106,Student\n";
     file << "Charlie,107,Faculty\n";
     file << "Adam,108,Faculty\n";
